@@ -11,11 +11,11 @@ I'm a bachelor student passionate about autonomous robots and autonomous mobilit
 - I'm currently focusing on improving my skills in control systems and theory, and CARLA.
 
 🚀 **Projects**
-- **Project Name:** Motion planning algorithm for non-holonomic robots - Incremental RRT with Dubins' Paths
-- **Project Name:** Simple Lane Detection Algorithm
+- **Motion planning algorithm for non-holonomic robots - Incremental RRT with Dubins' Paths** 
+- **Simple Lane Detection Algorithm**
 
 📫 **How to Reach Me**
-- LinkedIn: Ahmad Daoud (linkedin.com/in/ahmad-h-daoud)
+- **LinkedIn**: Ahmad Daoud (linkedin.com/in/ahmad-h-daoud)
 
 🎨 **Hobbies & Interests**
 Apart from coding, I enjoy playing football and padel.
