@@ -1,6 +1,6 @@
 # Hi there, I'm Ahmad Daoud! 👋
 
-I'm a baxhelor student passionate about autonomous robots and autonomous mobility. Welcome to my GitHub profile!
+I'm a bachelor student passionate about autonomous robots and autonomous mobility. Welcome to my GitHub profile!
 
 🔧 **Technologies & Tools**
 - **Languages:** Python , C++, Embedded C++/C
