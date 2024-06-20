@@ -5,10 +5,10 @@ I'm a bachelor student passionate about autonomous robots and autonomous mobilit
 🔧 **Technologies & Tools**
 - **Languages:** Python , C++, Embedded C++/C
 - **Frameworks & Libraries:** Numpy, Matplotlib, Numpy, OpenCV, PyTorch
-- **Tools:** Git, Visual Studio, MATLAB/SIMULINK, Keil uVision, Pycharm, CLion
+- **Tools:** Git, JetBrain Pycharm & CLion, MATLAB/SIMULINK, Keil uVision, CANeo/CANalyzer, CarMaker
 
 🌱 **Currently Learning**
-- I'm currently focusing on improving my skills in control systems and theory.
+- I'm currently focusing on improving my skills in control systems and theory, and CARLA.
 
 🚀 **Projects**
 - **Project Name:** Motion planning algorithm for non-holonomic robots - Incremental RRT with Dubins' Paths
