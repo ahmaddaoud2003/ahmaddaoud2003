@@ -8,7 +8,7 @@ I'm a baxhelor student passionate about autonomous robots and autonomous mobilit
 - **Tools:** Git, Visual Studio, MATLAB/SIMULINK, Keil uVision, Pycharm, CLion
 
 🌱 **Currently Learning**
-I'm currently focusing on improving my skills in control systems and theory.
+- I'm currently focusing on improving my skills in control systems and theory.
 
 🚀 **Projects**
 - **Project Name:** Motion planning algorithm for non-holonomic robots - Incremental RRT with Dubins' Paths
