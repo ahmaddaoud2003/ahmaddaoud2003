@@ -18,7 +18,7 @@ I'm a bachelor student passionate about autonomous robots and autonomous mobilit
 - **LinkedIn**: Ahmad Daoud (linkedin.com/in/ahmad-h-daoud)
 
 🎨 **Hobbies & Interests**
-Apart from coding, I enjoy playing football and padel.
+- Apart from coding, I enjoy playing football and padel.
 
 🌍 **Languages**
 - Arabic: Native proficiency
