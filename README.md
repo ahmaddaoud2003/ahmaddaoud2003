@@ -16,9 +16,9 @@ I'm a baxhelor student passionate about autonomous robots and autonomous mobilit
 
 📫 **How to Reach Me**
 - LinkedIn: Ahmad Daoud (linkedin.com/in/ahmad-h-daoud)
-- 
+
 🎨 **Hobbies & Interests**
-Apart from coding, I enjoy [Your Hobbies/Interests].
+Apart from coding, I enjoy playing football and padel.
 
 🌍 **Languages**
 - Arabic: Native proficiency
