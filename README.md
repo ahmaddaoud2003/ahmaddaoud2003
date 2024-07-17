@@ -8,7 +8,7 @@ I'm a bachelor student passionate about autonomous robots and autonomous mobilit
 - **Tools:** Git, JetBrain Pycharm & CLion, Visual Studio, MATLAB/SIMULINK, Keil uVision, CANeo/CANalyzer, CarMaker
 
 🌱 **Currently Learning**
-- I'm currently focusing on improving my skills in control systems and theory, and CARLA.
+- I'm currently focusing on improving my skills in control systems and theory, CARLA, and I am focusing on machine learning at the moment.
 
 🚀 **Projects**
 - **Motion planning algorithm for non-holonomic robots - Incremental RRT with Dubins' Paths** 
