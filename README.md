@@ -21,8 +21,9 @@ I'm a bachelor student passionate about autonomous robots and autonomous mobilit
 - Apart from coding, I enjoy playing football and padel.
 
 🌍 **Languages**
-- Arabic: Native proficiency
-- English and German: Fluent/Bilingual in English and Advanced in German
+- Arabic: Native
+- English: Fluent
+- German: Advanced
 
 🎓 **Education**
 - Currently studying my Bachelors of Engineering in Autonomous Vehicle Engineering from Technische Hochschule Ingolstadt (THI)
