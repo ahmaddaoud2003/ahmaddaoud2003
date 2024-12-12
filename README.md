@@ -18,8 +18,7 @@ I'm a bachelor student passionate about autonomous robots and autonomous mobilit
 
 📫 ***How to Reach Me***
 
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/ahmad-h-daoud/)  
-<br>  
+<a href="https://www.linkedin.com/in/ahmad-h-daoud/"><img src="https://cdn.simpleicons.org/linkedin/000000" alt="LinkedIn" width="32"></a>  
 <a href="https://x.com/Daoud_2003"><img src="https://cdn.simpleicons.org/x/000000" alt="X" width="32" style="margin-top: 10px;"></a>
 
 🎨 ***Hobbies & Interests***
