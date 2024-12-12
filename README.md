@@ -17,7 +17,8 @@ I'm a bachelor student passionate about autonomous robots and autonomous mobilit
 - **Simple Lane Detection Algorithm**
 
 📫 ***How to Reach Me***
-- [![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-h-daoud/)
+- [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/ahmad-h-daoud/)
+
 - [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Daoud_2003)
 
 🎨 ***Hobbies & Interests***
