@@ -11,7 +11,7 @@ I'm a bachelor student passionate about autonomous robots and autonomous mobilit
 - I'm currently focusing on improving my skills in control systems and theory, ROS, CARLA simulation software and digital signal processing for autonomous vehicles..
 
 🚀 **Projects**
-- **Traffic Sign Recognition Software**
+- **Traffic Sign Recognition Neural Network**
 - **Motion planning algorithm for non-holonomic robots - Incremental RRT with Dubins' Paths** 
 - **Simple Lane Detection Algorithm**
 
