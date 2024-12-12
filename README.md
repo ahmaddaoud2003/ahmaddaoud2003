@@ -4,13 +4,14 @@ I'm a bachelor student passionate about autonomous robots and autonomous mobilit
 
 🔧 **Technologies & Tools**
 - **Languages:** Python , C++, Embedded C++/C
-- **Frameworks & Libraries:** Numpy, Matplotlib, Numpy, OpenCV, PyTorch
-- **Tools:** Git, JetBrain Pycharm & CLion, Visual Studio, MATLAB/SIMULINK, Keil uVision, CANeo/CANalyzer, CarMaker
+- **Frameworks & Libraries:** TensorFlow, Keras, Numpy, Matplotlib, Numpy, OpenCV, PyTorch
+- **Tools:** Git, JetBrain Pycharm & CLion, Visual Studio, MATLAB/SIMULINK, Keil uVision, CANeo/CANalyzer, CarMaker, CARLA
 
 🌱 **Currently Learning**
-- I'm currently focusing on improving my skills in control systems and theory, CARLA, and I am focusing on machine learning at the moment.
+- I'm currently focusing on improving my skills in control systems and theory, ROS, CARLA simulation software and digital signal processing for autonomous vehicles..
 
 🚀 **Projects**
+- **Traffic Sign Recognition Software**
 - **Motion planning algorithm for non-holonomic robots - Incremental RRT with Dubins' Paths** 
 - **Simple Lane Detection Algorithm**
 
@@ -18,7 +19,7 @@ I'm a bachelor student passionate about autonomous robots and autonomous mobilit
 - **LinkedIn**: Ahmad Daoud (linkedin.com/in/ahmad-h-daoud)
 
 🎨 **Hobbies & Interests**
-- Apart from coding, I enjoy playing football and padel.
+- Apart from coding, I enjoy playing football and padel, watching Formula 1 and reading.
 
 🌍 **Languages**
 - Arabic: Native
