@@ -5,7 +5,7 @@ I'm a bachelor student passionate about autonomous robots and autonomous mobilit
 🔧 ***Technologies & Tools***
 - **Languages:** Python , C++, Embedded C++/C
 - **Skills & Know-Hows:** Machine Learning (including TinyML), Microcontrollers, Control Theory and Sytems, UML, Motion Planning, Vehcile Dynamics
-- **Frameworks & Libraries:** TensorFlow, Keras, Numpy, Matplotlib, Numpy, OpenCV, PyTorch
+- **Frameworks & Libraries:** TensorFlow (including TensorFlow C++), Keras, Numpy, Matplotlib, Numpy, OpenCV, PyTorch
 - **Tools:** Git, JetBrain Pycharm & CLion, Visual Studio, Umlet, MATLAB/SIMULINK, Keil uVision, CANeo/CANalyzer, CarMaker, CARLA
 
 🌱 ***Currently Learning***
