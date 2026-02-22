@@ -2,7 +2,7 @@
 
 Bachelor’s student in Autonomous Vehicle Engineering passionate about autonomous robots and intelligent mobility systems.
 
-🎯 **Focus:** End-to-End Autonomous Driving, Motion & Path Planning, Robot Navigation, and GenAI for Robotics
+🎯 **Focus:** End-to-End Autonomous Driving, Physical AI, Motion & Path Planning, Robot Navigation, and GenAI for Robotics
 
 ---
 
@@ -56,7 +56,7 @@ PyTorch · TensorFlow (incl. TF Lite & TF Lite Micor) · QisKit · NumPy · Matp
 
 ## 🎨 Hobbies & Interests
 
-Football · Padel · Formula 1 · Cars · Robotics · Space & Astronomy · AI
+Football · Padel · Formula 1 · Cars · Robotics · Space & Astronomy · AI · Physical AI
 
 ---
 
