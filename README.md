@@ -24,6 +24,8 @@ I'm a bachelor student passionate about autonomous robots and autonomous mobilit
          width="50" />
   </a>
 </p>
+
+
 🎨 ***Hobbies & Interests***
 - Apart from coding, I enjoy playing football and padel, watching Formula 1 and reading.
 - Interested in Cars, Robotics, Space & Astronomy, AI and Crypto
