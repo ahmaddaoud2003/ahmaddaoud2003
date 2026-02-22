@@ -2,7 +2,7 @@
 
 Bachelor’s student in Autonomous Vehicle Engineering passionate about autonomous robots and intelligent mobility systems.
 
-🎯 **Focus:** End-to-End Autonomous Driving, Physical AI, Motion & Path Planning, Robot Navigation, and GenAI for Robotics
+🎯 **Focus:** End-to-End Autonomous Driving, Physical AI, Motion & Path Planning, Robot Navigation, & GenAI for Robotics.
 
 ---
 
