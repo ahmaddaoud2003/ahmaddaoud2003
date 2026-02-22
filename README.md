@@ -19,9 +19,7 @@ I'm a bachelor student passionate about autonomous robots and autonomous mobilit
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ahmad-h-daoud/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/942fb608-c983-4b04-8040-bda77ebb90fa" 
-         alt="Ahmad Daoud LinkedIn" 
-         width="50" />
+    <img src="https://img.shields.io/badge/Connect%20with%20me-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
