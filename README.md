@@ -17,7 +17,8 @@ I'm a bachelor student passionate about autonomous robots and autonomous mobilit
 
 📫 ***How to Reach Me***
 
-<a href="https://www.linkedin.com/in/ahmad-h-daoud/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="32"></a> &nbsp;  <a href="https://x.com/Daoud_2003"><img src="https://cdn.simpleicons.org/x/000000" alt="X" width="32" style="margin-top: 5px;"></a>
+<a href="https://www.linkedin.com/in/ahmad-h-daoud/"><img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/942fb608-c983-4b04-8040-bda77ebb90fa" />
+;  <a href="https://x.com/Daoud_2003"><img src="https://cdn.simpleicons.org/x/000000" alt="X" width="32" style="margin-top: 5px;"></a>
 
 🎨 ***Hobbies & Interests***
 - Apart from coding, I enjoy playing football and padel, watching Formula 1 and reading.
