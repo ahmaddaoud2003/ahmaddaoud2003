@@ -2,6 +2,17 @@
 
 I'm a bachelor student passionate about autonomous robots and autonomous mobility. Welcome to my GitHub profile!
 
+🎓 ***Education***
+- **Autonomous Vehicle Engineering - Technische Hochschule Ingolstadt**
+
+💼 ***Experience***
+
+- **GenAI for Autonomous Driving — Working Student**, DENSO (Munich)  
+  *Nov 2025 – Present*
+
+- **AD Software Verification & Validation — Intern**, NIO (Berlin)  
+  *Apr 2025 – Sep 2025*
+
 🔧 ***Technologies & Tools***
 - **Languages:** Python , C++, Embedded C++/C
 - **Skills & Know-Hows:** Machine Learning (including TinyML), Microcontrollers, Control Theory and Sytems, UML, Motion Planning, Vehcile Dynamics
@@ -33,5 +44,5 @@ I'm a bachelor student passionate about autonomous robots and autonomous mobilit
 - **English:** Fluent
 - **German:** Advanced
 
-🎓 ***Education***
-- Currently studying my Bachelors of Engineering in Autonomous Vehicle Engineering from Technische Hochschule Ingolstadt (THI)
+🎯 Focus: End-to-End Autonomous Driving, Motion & Path Planning, Robot Navigation and Gen-AI for Robotics
+
