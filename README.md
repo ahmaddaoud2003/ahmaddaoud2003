@@ -28,7 +28,7 @@ Bachelor’s student in Autonomous Vehicle Engineering passionate about autonomo
 Python · C++ · Embedded C/C++
 
 **Core Skills**  
-Machine Learning (incl. TinyML) & Deep Learning · Microcontrollers · Control Theory & Systems · Motion Planning · UML
+Machine Learning (incl. TinyML) & Deep Learning · Control Theory & Systems · Motion Planning · UML
 
 **Frameworks & Libraries**  
 PyTorch · TensorFlow · TensorFlow Lite · TensorFlow Lite Micro · Keras · NumPy · Matplotlib · OpenCV
