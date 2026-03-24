@@ -18,7 +18,7 @@ Bachelor’s student in Autonomous Vehicle Engineering passionate about autonomo
   *Nov 2025 – Present*
 
 - **Autonomous Driving Software Verification & Validation — Intern**, NIO (Berlin)  
-  *Apr 2025 – Sep 2025*
+  *Apr 2025 – Oct 2025*
 
 ---
 
